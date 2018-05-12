@@ -48,6 +48,26 @@
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Sitecore.Kernel">
+      <HintPath>..\Libraries\Sitecore\Sitecore.Kernel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Mvc">
+      <HintPath>..\Libraries\Sitecore\Sitecore.Mvc.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Mvc.Analytics">
+      <HintPath>..\Libraries\Sitecore\Sitecore.Mvc.Analytics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Mvc.DeviceSimulator">
+      <HintPath>..\Libraries\Sitecore\Sitecore.Mvc.DeviceSimulator.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Mvc.ExperienceEditor">
+      <HintPath>..\Libraries\Sitecore\Sitecore.Mvc.ExperienceEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
